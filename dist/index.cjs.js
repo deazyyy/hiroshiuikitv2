@@ -2543,7 +2543,7 @@ var Menu = function (_a) {
             React__default['default'].createElement("div", { className: "menutopdeskinner" },
                 React__default['default'].createElement("div", null,
                     React__default['default'].createElement(Logo$1, { isPushed: isPushed, togglePush: function () { return setIsPushed(function (prevState) { return !prevState; }); }, isDark: isDark, href: "https://hiroshi.farm/" })),
-                React__default['default'].createElement("a", { href: "" },
+                React__default['default'].createElement("a", { href: "https://inu-ecosystem.io/" },
                     React__default['default'].createElement("img", { src: "images/hiroshi/ecosystem.png", alt: "piano", className: "ecosystemimg" })),
                 React__default['default'].createElement("div", { className: "socialIcons" },
                     React__default['default'].createElement("ul", { className: "dropdown__items" },

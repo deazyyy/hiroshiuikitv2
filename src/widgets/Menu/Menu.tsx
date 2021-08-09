@@ -283,7 +283,7 @@ const Menu: React.FC<NavProps> = ({
             href={"https://hiroshi.farm/"}
           />
           </div>
-          <a href=""><img src="images/hiroshi/ecosystem.png" alt="piano" className="ecosystemimg"/></a>
+          <a href="https://inu-ecosystem.io/"><img src="images/hiroshi/ecosystem.png" alt="piano" className="ecosystemimg"/></a>
           <div className="socialIcons">
           <ul className="dropdown__items">
                   <li>

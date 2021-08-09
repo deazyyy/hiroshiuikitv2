@@ -2530,7 +2530,7 @@ var Menu = function (_a) {
             React.createElement("div", { className: "menutopdeskinner" },
                 React.createElement("div", null,
                     React.createElement(Logo$1, { isPushed: isPushed, togglePush: function () { return setIsPushed(function (prevState) { return !prevState; }); }, isDark: isDark, href: "https://hiroshi.farm/" })),
-                React.createElement("a", { href: "" },
+                React.createElement("a", { href: "https://inu-ecosystem.io/" },
                     React.createElement("img", { src: "images/hiroshi/ecosystem.png", alt: "piano", className: "ecosystemimg" })),
                 React.createElement("div", { className: "socialIcons" },
                     React.createElement("ul", { className: "dropdown__items" },
