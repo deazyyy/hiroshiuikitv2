@@ -1947,8 +1947,10 @@ var Logo$1 = function (_a) {
         React.createElement(Icon$q, { className: "mobile-icon" }),
         React.createElement(Logo, { className: "desktop-icon", isDark: isDark })));
     return (React.createElement(Flex, { className: "menutoplogo" }, isAbsoluteUrl ? (React.createElement(StyledLink$1, { as: "a", href: href, "aria-label": "Pancake home page" },
-        React.createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }))) : (React.createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" },
-        React.createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" })))));
+        React.createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }),
+        React.createElement("img", { src: "images/hiroshi/logo-mobile.png", alt: "piano", className: "logomobileimg" }))) : (React.createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" },
+        React.createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }),
+        React.createElement("img", { src: "images/hiroshi/logo-mobile.png", alt: "piano", className: "logomobileimg" })))));
 };
 var templateObject_1$x;
 

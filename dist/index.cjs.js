@@ -1960,8 +1960,10 @@ var Logo$1 = function (_a) {
         React__default['default'].createElement(Icon$q, { className: "mobile-icon" }),
         React__default['default'].createElement(Logo, { className: "desktop-icon", isDark: isDark })));
     return (React__default['default'].createElement(Flex, { className: "menutoplogo" }, isAbsoluteUrl ? (React__default['default'].createElement(StyledLink$1, { as: "a", href: href, "aria-label": "Pancake home page" },
-        React__default['default'].createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }))) : (React__default['default'].createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" },
-        React__default['default'].createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" })))));
+        React__default['default'].createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }),
+        React__default['default'].createElement("img", { src: "images/hiroshi/logo-mobile.png", alt: "piano", className: "logomobileimg" }))) : (React__default['default'].createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" },
+        React__default['default'].createElement("img", { src: "images/hiroshi/logo.png", alt: "piano", className: "logoimg" }),
+        React__default['default'].createElement("img", { src: "images/hiroshi/logo-mobile.png", alt: "piano", className: "logomobileimg" })))));
 };
 var templateObject_1$x;
 

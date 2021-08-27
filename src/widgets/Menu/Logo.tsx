@@ -54,10 +54,12 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
         <StyledLink as="a" href={href} aria-label="Pancake home page">
           {/* {innerLogo} */}
           <img src="images/hiroshi/logo.png" alt="piano" className="logoimg"/>
+          <img src="images/hiroshi/logo-mobile.png" alt="piano" className="logomobileimg"/>
         </StyledLink>
       ) : (
         <StyledLink to={href} aria-label="Pancake home page">
           <img src="images/hiroshi/logo.png" alt="piano" className="logoimg"/>
+          <img src="images/hiroshi/logo-mobile.png" alt="piano" className="logomobileimg"/>
         </StyledLink>
       )}
     </Flex>
