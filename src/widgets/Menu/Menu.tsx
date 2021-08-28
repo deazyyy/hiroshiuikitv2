@@ -197,9 +197,6 @@ const Menu: React.FC<NavProps> = ({
                 links={links}
                 priceLink={priceLink}
               />
-            </div>
-
-            <div className="connectrowouter">
               <div className="dropdown">
                 <input type="checkbox" id="dropdown" />
                 {
@@ -238,6 +235,10 @@ const Menu: React.FC<NavProps> = ({
                   </li>
                 </ul>
               </div>
+            </div>
+
+            <div className="connectrowouter">
+              
 
               <a href="https://exchange.hiroshi.farm/" className="nav_link outlineBtn exchangemenubtn">
                 Exchange
