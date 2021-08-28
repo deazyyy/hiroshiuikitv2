@@ -131,17 +131,6 @@ const Menu: React.FC<NavProps> = ({
               href={"https://hiroshi.farm/"}
             />
             <div className="navigation">
-              {/* <label htmlFor="navi-toggle" className="navigation__button">
-				<span className="navigation__icon">
-					<span className="navigation__icon-span">&nbsp;</span>
-					<span className="navigation__icon-span">&nbsp;</span>
-					<span className="navigation__icon-span">&nbsp;</span>
-					<span className="navigation__icon-span">&nbsp;</span>
-					<span className="navigation__icon-span">&nbsp;</span>
-					<span className="navigation__icon-span">&nbsp;</span>
-				</span>
-			</label>
-      <input type="checkbox" id="navi-toggle" className="navigation__checkbox" /> */}
               <input className="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
               {
                 // @ts-ignore}
