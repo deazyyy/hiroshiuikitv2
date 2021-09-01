@@ -161,7 +161,7 @@ const Menu: React.FC<NavProps> = ({
                   </li>
                   <li className="navigation__item">
                     <a href="hiroshiaudit.pdf" className="navigation__link" target="_blank">
-                      audited by hacken
+                      audited by Techreview
                     </a>
                   </li>
                 </ul>

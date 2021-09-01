@@ -2507,7 +2507,7 @@ var Menu = function (_a) {
                                 React__default['default'].createElement("li", { className: "navigation__item" },
                                     React__default['default'].createElement("a", { href: "https://kabosutoken.io", className: "navigation__link" }, "roadmap")),
                                 React__default['default'].createElement("li", { className: "navigation__item" },
-                                    React__default['default'].createElement("a", { href: "hiroshiaudit.pdf", className: "navigation__link", target: "_blank" }, "audited by hacken")))))),
+                                    React__default['default'].createElement("a", { href: "hiroshiaudit.pdf", className: "navigation__link", target: "_blank" }, "audited by Techreview")))))),
                 React__default['default'].createElement("div", { className: "menuconntouter" },
                     React__default['default'].createElement("div", { className: "menulinkouter" },
                         React__default['default'].createElement(PanelFooter, { isPushed: isPushed, isDark: isDark, toggleTheme: toggleTheme, langs: langs, setLang: setLang, currentLang: currentLang, cakePriceUsd: cakePriceUsd, violaPriceUsd: violaPriceUsd, linkmelody: linkmelody, linkviola: linkviola, pushNav: setIsPushed, links: links, priceLink: priceLink }),

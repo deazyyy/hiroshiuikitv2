@@ -2494,7 +2494,7 @@ var Menu = function (_a) {
                                 React.createElement("li", { className: "navigation__item" },
                                     React.createElement("a", { href: "https://kabosutoken.io", className: "navigation__link" }, "roadmap")),
                                 React.createElement("li", { className: "navigation__item" },
-                                    React.createElement("a", { href: "hiroshiaudit.pdf", className: "navigation__link", target: "_blank" }, "audited by hacken")))))),
+                                    React.createElement("a", { href: "hiroshiaudit.pdf", className: "navigation__link", target: "_blank" }, "audited by Techreview")))))),
                 React.createElement("div", { className: "menuconntouter" },
                     React.createElement("div", { className: "menulinkouter" },
                         React.createElement(PanelFooter, { isPushed: isPushed, isDark: isDark, toggleTheme: toggleTheme, langs: langs, setLang: setLang, currentLang: currentLang, cakePriceUsd: cakePriceUsd, violaPriceUsd: violaPriceUsd, linkmelody: linkmelody, linkviola: linkviola, pushNav: setIsPushed, links: links, priceLink: priceLink }),
